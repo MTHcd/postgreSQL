@@ -1,0 +1,20 @@
+checking hadoop, big data, data pipelines (flow of data);
+checking postgresql open source;
+checking SQL diff PySpark; dataframes;
+
+upstream // downstream;
+in between -> data engineering;
+
+ETL
+
+extract -> data profiling -> checking NULL values; -> checking quality of data
+-> preventing cost of retrieving bad data once it was uploaded;
+
+transform -> most used datasets, PostgreSQL level, doing SQL to
+do daily reports, business analytics…
+
+load -> storing in data warehouses,data lakes;
+-> data used for data analytics on time series, predictions, machine learning…
+
+checking installation of PostgreSQL and datagrip; check free account with academic account;
+checking leetcode 5 managers query;
